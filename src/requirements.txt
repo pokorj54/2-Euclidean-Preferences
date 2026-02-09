@@ -1,0 +1,9 @@
+gurobipy
+coverage
+pytest
+psutil
+tqdm
+pandas
+matplotlib
+seaborn
+jinja2
