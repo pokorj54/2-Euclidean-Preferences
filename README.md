@@ -1,5 +1,6 @@
 # Practical approach to 2-Euclidean Preferences
-Link to paper: https://doi.org/10.65109/TNYC5178
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18541197.svg)](https://doi.org/10.5281/zenodo.18541197)
+Link to the paper: https://doi.org/10.65109/TNYC5178
 
 The repository is divided into two parts (folders) - `data` and `src`.
 
